@@ -1,0 +1,22 @@
+﻿@model CoreWebMenu.Models.TaskViewModel
+@{
+    ViewData["Title"] = "Menu Page";
+    Layout = "_Layout";
+}
+
+<div class="text-center">
+    <h2>タスク一覧</h2>
+    <br>
+    <table>
+        @foreach (var item in Model.tasks)
+        {
+            <tr>
+                <td>
+                    @item.TaskId
+                    <a href="@item.TaskUrl">@item.TaskNm</a>
+                </td>
+            </tr>
+        }
+    </table>
+</div>
+

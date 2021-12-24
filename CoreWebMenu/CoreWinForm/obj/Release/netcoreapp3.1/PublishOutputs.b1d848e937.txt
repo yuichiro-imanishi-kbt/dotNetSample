@@ -1,0 +1,5 @@
+C:\Users\Peach\source\repos\CoreWebMenu\CoreWinForm\bin\publish\CoreWinForm.exe
+C:\Users\Peach\source\repos\CoreWebMenu\CoreWinForm\bin\publish\CoreWinForm.dll
+C:\Users\Peach\source\repos\CoreWebMenu\CoreWinForm\bin\publish\CoreWinForm.deps.json
+C:\Users\Peach\source\repos\CoreWebMenu\CoreWinForm\bin\publish\CoreWinForm.runtimeconfig.json
+C:\Users\Peach\source\repos\CoreWebMenu\CoreWinForm\bin\publish\CoreWinForm.pdb

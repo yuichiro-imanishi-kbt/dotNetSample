@@ -1,0 +1,15 @@
+C:\Users\Peach\source\repos\WebApplication2\CoreWebAPI\bin\Release\netcoreapp2.1\CoreWebAPI.deps.json
+C:\Users\Peach\source\repos\WebApplication2\CoreWebAPI\bin\Release\netcoreapp2.1\CoreWebAPI.runtimeconfig.json
+C:\Users\Peach\source\repos\WebApplication2\CoreWebAPI\bin\Release\netcoreapp2.1\CoreWebAPI.runtimeconfig.dev.json
+C:\Users\Peach\source\repos\WebApplication2\CoreWebAPI\bin\Release\netcoreapp2.1\CoreWebAPI.dll
+C:\Users\Peach\source\repos\WebApplication2\CoreWebAPI\bin\Release\netcoreapp2.1\CoreWebAPI.pdb
+C:\Users\Peach\source\repos\WebApplication2\CoreWebAPI\obj\Release\netcoreapp2.1\CoreWebAPI.csprojAssemblyReference.cache
+C:\Users\Peach\source\repos\WebApplication2\CoreWebAPI\obj\Release\netcoreapp2.1\CoreWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\Peach\source\repos\WebApplication2\CoreWebAPI\obj\Release\netcoreapp2.1\CoreWebAPI.RazorAssemblyInfo.cache
+C:\Users\Peach\source\repos\WebApplication2\CoreWebAPI\obj\Release\netcoreapp2.1\CoreWebAPI.RazorAssemblyInfo.cs
+C:\Users\Peach\source\repos\WebApplication2\CoreWebAPI\obj\Release\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\Peach\source\repos\WebApplication2\CoreWebAPI\obj\Release\netcoreapp2.1\CoreWebAPI.AssemblyInfoInputs.cache
+C:\Users\Peach\source\repos\WebApplication2\CoreWebAPI\obj\Release\netcoreapp2.1\CoreWebAPI.AssemblyInfo.cs
+C:\Users\Peach\source\repos\WebApplication2\CoreWebAPI\obj\Release\netcoreapp2.1\CoreWebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Peach\source\repos\WebApplication2\CoreWebAPI\obj\Release\netcoreapp2.1\CoreWebAPI.dll
+C:\Users\Peach\source\repos\WebApplication2\CoreWebAPI\obj\Release\netcoreapp2.1\CoreWebAPI.pdb

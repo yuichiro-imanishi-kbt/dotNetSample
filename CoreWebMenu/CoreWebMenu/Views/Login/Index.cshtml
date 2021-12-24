@@ -1,0 +1,24 @@
+﻿@model CoreWebMenu.Models.Login
+@{
+    ViewData["Title"] = "Login";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<div class="text-center">
+
+    @using (Html.BeginForm())
+    {
+        <label>id</label>
+        @Html.TextBoxFor(login => login.Id)
+        <label>password</label>
+        @Html.PasswordFor(login => login.Password)
+
+        <input type="submit" id="button1" value="ログイン" asp-area="" asp-controller="Login" asp-action="Login">
+    }
+
+    @*@if (Model.Error != "") {
+        <label>Model.Error</label>
+    }*@
+
+</div>

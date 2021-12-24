@@ -1,0 +1,16 @@
+C:\Users\Peach\source\repos\CoreWebMenu\CoreWinForm\bin\Debug\netcoreapp3.1\CoreWinForm.exe
+C:\Users\Peach\source\repos\CoreWebMenu\CoreWinForm\bin\Debug\netcoreapp3.1\CoreWinForm.deps.json
+C:\Users\Peach\source\repos\CoreWebMenu\CoreWinForm\bin\Debug\netcoreapp3.1\CoreWinForm.runtimeconfig.json
+C:\Users\Peach\source\repos\CoreWebMenu\CoreWinForm\bin\Debug\netcoreapp3.1\CoreWinForm.runtimeconfig.dev.json
+C:\Users\Peach\source\repos\CoreWebMenu\CoreWinForm\bin\Debug\netcoreapp3.1\CoreWinForm.dll
+C:\Users\Peach\source\repos\CoreWebMenu\CoreWinForm\bin\Debug\netcoreapp3.1\CoreWinForm.pdb
+C:\Users\Peach\source\repos\CoreWebMenu\CoreWinForm\obj\Debug\netcoreapp3.1\CoreWinForm.csproj.AssemblyReference.cache
+C:\Users\Peach\source\repos\CoreWebMenu\CoreWinForm\obj\Debug\netcoreapp3.1\CoreWinForm.samp001.resources
+C:\Users\Peach\source\repos\CoreWebMenu\CoreWinForm\obj\Debug\netcoreapp3.1\CoreWinForm.csproj.GenerateResource.cache
+C:\Users\Peach\source\repos\CoreWebMenu\CoreWinForm\obj\Debug\netcoreapp3.1\CoreWinForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Peach\source\repos\CoreWebMenu\CoreWinForm\obj\Debug\netcoreapp3.1\CoreWinForm.AssemblyInfoInputs.cache
+C:\Users\Peach\source\repos\CoreWebMenu\CoreWinForm\obj\Debug\netcoreapp3.1\CoreWinForm.AssemblyInfo.cs
+C:\Users\Peach\source\repos\CoreWebMenu\CoreWinForm\obj\Debug\netcoreapp3.1\CoreWinForm.csproj.CoreCompileInputs.cache
+C:\Users\Peach\source\repos\CoreWebMenu\CoreWinForm\obj\Debug\netcoreapp3.1\CoreWinForm.dll
+C:\Users\Peach\source\repos\CoreWebMenu\CoreWinForm\obj\Debug\netcoreapp3.1\CoreWinForm.pdb
+C:\Users\Peach\source\repos\CoreWebMenu\CoreWinForm\obj\Debug\netcoreapp3.1\CoreWinForm.genruntimeconfig.cache
